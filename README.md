@@ -1,4 +1,5 @@
-# awesome-selfhosted-data
+Codewallet early Access 
+I want it to be upgrade to lastest vision and able to send from below $10 above and able to approved any transaction I made error and invalid transaction should be resolved and access what ever I want inside the wallet consign any transaction # awesome-selfhosted-data
 
 This repository holds data used to generate https://awesome-selfhosted.net and https://github.com/awesome-selfhosted/awesome-selfhosted
 
